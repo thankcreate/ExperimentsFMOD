@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{e3fdcd47-92ee-4dd4-b5e8-0a20ff997ff5}">
+		<property name="assetPath">
+			<value>thesisBGM.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>53.399999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ba0bf9eb-6716-4b76-95f4-191e69902283}</destination>
+		</relationship>
+	</object>
+</objects>
