@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{9926b2b3-12f2-459b-b974-ed4e9c1a381f}">
+		<property name="assetPath">
+			<value>Flip To Stamp Choosing.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.432</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ba0bf9eb-6716-4b76-95f4-191e69902283}</destination>
+		</relationship>
+	</object>
+</objects>
