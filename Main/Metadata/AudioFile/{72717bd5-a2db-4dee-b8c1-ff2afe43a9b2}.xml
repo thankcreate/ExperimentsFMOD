@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{72717bd5-a2db-4dee-b8c1-ff2afe43a9b2}">
+		<property name="assetPath">
+			<value>NYTimesVO1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.9885416666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ba0bf9eb-6716-4b76-95f4-191e69902283}</destination>
+		</relationship>
+	</object>
+</objects>
