@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.00.00">
 	<object class="Event" id="{0c186871-ee97-4ee2-b1ff-6799627791d1}">
 		<property name="name">
-			<value>SeparateWaysProp</value>
+			<value>65536_SeparateWaysProp</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -105,6 +105,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{2de0ee59-b6f1-433b-a3b9-8ecd951f8f55}">
+		<property name="volume">
+			<value>-12.5</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
