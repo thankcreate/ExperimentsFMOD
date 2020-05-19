@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.00.00">
 	<object class="Event" id="{1d5bc26d-c48b-485c-9e7f-bf4fd2a59359}">
 		<property name="name">
-			<value>65536_ConfirmLevel</value>
+			<value>ConfirmLevel</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
